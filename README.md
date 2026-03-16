@@ -33,17 +33,3 @@ I'm **Omar Mohamed**, a Software Engineer passionate about building **complex, s
 **Tools:** Git, GitHub, Postman, Vercel
 
 ---
-
-### 📊 GitHub Stats & Contributions
-
-<div align="center">
-  <a href="https://github.com/omarmohamed-909">
-    <img src="https://github-readme-stats.vercel.app/api?username=omarmohamed-909&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Omar's GitHub Stats" height="150" />
-  </a>
-  <a href="https://github.com/omarmohamed-909">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmohamed-909&theme=dark&layout=compact&hide_border=true" alt="Omar's Top Languages" height="150" />
-  </a>
-  <a href="https://github.com/omarmohamed-909">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarmohamed-909&theme=dark&hide_border=true" alt="Omar's GitHub Streak" height="150" />
-  </a>
-</div>
