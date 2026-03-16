@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/0d1117/00e5ff?text=Omar+Mohamed+-+Full+Stack+Developer" alt="Omar Banner" width="100%" />
+  <img src="./banner.png" alt="Omar Mohamed Banner" width="100%" />
 
   <br/>
   <br/>
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Omar Mohamed**, a Software Engineer passionate about building **complex, scalable web applications**. I specialize in the **MERN Stack** with a deep focus on clean code, UI/UX, and robust architectures.
+I'm **Omar Mohamed**, a Software Engineer passionate about building **complex, scalable web applications**. I specialize in the **MERN Stack** (MongoDB, Express, React, Node.js) with a deep focus on clean code, UI/UX, and robust architectures.
 
 - 🔭 Currently building a full-stack **E-Learning Platform (LMS)** from scratch.
 - 🌱 Deepening my knowledge in **Data Structures, Algorithms**, and Backend optimizations.
@@ -31,3 +31,19 @@ I'm **Omar Mohamed**, a Software Engineer passionate about building **complex, s
 **Frontend:** React, Vite, JavaScript, Tailwind CSS <br>
 **Backend:** Node.js, Express, MongoDB, RESTful APIs <br>
 **Tools:** Git, GitHub, Postman, Vercel
+
+---
+
+### 📊 GitHub Stats & Contributions
+
+<div align="center">
+  <a href="https://github.com/omarmohamed-909">
+    <img src="https://github-readme-stats.vercel.app/api?username=omarmohamed-909&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Omar's GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/omarmohamed-909">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmohamed-909&theme=dark&layout=compact&hide_border=true" alt="Omar's Top Languages" height="150" />
+  </a>
+  <a href="https://github.com/omarmohamed-909">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarmohamed-909&theme=dark&hide_border=true" alt="Omar's GitHub Streak" height="150" />
+  </a>
+</div>
