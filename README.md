@@ -4,32 +4,102 @@
   <br/>
   <br/>
 
-  <h2 align="center" style="color: #00e5ff;">Software Engineer | MERN Stack</h2>
+  <h2>Software Engineer | Full-Stack MERN Developer</h2>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/omar-mohamed-454915298" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:om1478711@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/RESUME-00B248?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume"/></a>
+  <p>
+    Building scalable web applications with modern JavaScript technologies.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/omar-mohamed-454915298">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:omar.m.ombark@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.omarombark.me/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/RESUME-00B248?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+    </a>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Omar Mohamed**, a Software Engineer passionate about building **complex, scalable web applications**. I specialize in the **MERN Stack** (MongoDB, Express, React, Node.js) with a deep focus on clean code, UI/UX, and robust architectures.
+I'm **Omar Mohamed**, a Full-Stack Software Engineer specializing in building modern and scalable web applications using the **MERN Stack**.
 
-- 🔭 Currently building a full-stack **E-Learning Platform (LMS)** from scratch.
-- 🌱 Deepening my knowledge in **Data Structures, Algorithms**, and Backend optimizations.
-- 💡 Passionate about solving complex problems and delivering seamless user experiences.
+I work across both frontend and backend development, transforming ideas into complete applications with responsive interfaces, secure APIs, authentication systems, dashboards, payment integrations, and maintainable architectures.
+
+* 🚀 Building a full-stack **E-Learning Platform (LMS)** from scratch.
+* ⚛️ Working with **React.js, Next.js, Tailwind CSS, and modern JavaScript**.
+* ⚙️ Developing backend systems using **Node.js, Express.js, MongoDB, and REST APIs**.
+* 🔐 Experienced with **Authentication, Authorization, Roles, Payments, Webhooks, and Media Management**.
+* 🧠 Improving my knowledge of **Data Structures, Algorithms, Backend Architecture, and Performance Optimization**.
+* 🎯 Focused on writing **clean, maintainable, and scalable code**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" alt="Frontend Technologies" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" alt="Development Tools" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 Currently Working On
 
-**Frontend:** React, Vite, JavaScript, Tailwind CSS <br>
-**Backend:** Node.js, Express, MongoDB, RESTful APIs <br>
-**Tools:** Git, GitHub, Postman, Vercel
+### E-Learning Platform — LMS
+
+A full-stack Learning Management System designed with real-world application architecture and scalable features.
+
+**Main Features:**
+
+* Authentication & Authorization
+* Role-Based Access Control
+* Student & Instructor Accounts
+* Instructor Applications
+* Admin Dashboard
+* Course Management
+* Media Management
+* Orders & Payments
+* Payment Webhooks
+* Instructor Earnings
+* Settlement Management
+
+**Technologies:**
+`React` • `Node.js` • `Express.js` • `MongoDB`
 
 ---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/omar-mohamed-454915298">
+  <img src="https://img.shields.io/badge/LinkedIn-Omar%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:omar.m.ombark@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
