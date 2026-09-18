@@ -166,24 +166,37 @@ A complete Learning Management System being built from scratch with a focus on s
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Development Pulse
 
 <div align="center">
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarmohamed-909&theme=github_dark"
-    alt="Omar Mohamed GitHub Stats"
-    height="170"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omarmohamed-909&theme=github_dark"
-    alt="Omar Mohamed Top Languages"
-    height="170"
-  />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarmohamed-909&theme=github_dark"
+  width="100%"
+  alt="Omar Mohamed GitHub Activity"
+/>
 
 </div>
 
+## 📊 Developer Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://streak-stats.demolab.com?user=omarmohamed-909&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub Streak"/>
+</td>
+<td align="center" width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarmohamed-909&theme=github_dark" width="100%" alt="GitHub Stats"/>
+</td>
+<td align="center" width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omarmohamed-909&theme=github_dark" width="100%" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+</div>
 ### Let's Build Something Great 🚀
 
 <p>
