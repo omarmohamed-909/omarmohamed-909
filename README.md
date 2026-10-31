@@ -144,7 +144,7 @@ My portfolio doubles as a content management platform: **projects, blog posts, s
   <h2 id="lets-connect">Let's connect</h2>
   <p>Have a product idea or a development opportunity? I'd be happy to talk.</p>
   <p><a href="https://www.omarombark.me/">Portfolio</a> · <a href="https://www.linkedin.com/in/omar-mohamed-454915298">LinkedIn</a> · <a href="mailto:omar.m.ombark@gmail.com">Email</a></p>
-  
+  <sub>Thoughtful interfaces. Practical engineering. Room to keep learning.</sub>
 </div>
 
 <p align="center">
